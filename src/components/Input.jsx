@@ -26,7 +26,7 @@ function InputData({ onSubmit }) {
         />
       </div>
       <button className="h-12 bg-orange-700 text-white" type="submit">
-        Submit data
+        Submit
       </button>
     </form>
   );
