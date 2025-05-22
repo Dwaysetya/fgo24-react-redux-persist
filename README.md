@@ -21,7 +21,7 @@ This repository contains information on how to create a TODO list, by utilizing 
 1. Clone this project
 
 ```
-git clone   https://github.com/Dwaysetya/fgo24-react-todo
+git clone   https://github.com/Dwaysetya/fgo24-react-redux-persist
 ```
 
 2. Enter the project firectory
