@@ -6,7 +6,15 @@ This repository contains information on how to create a TODO list, by utilizing 
 
 ## Result
 
-![Result](./src/assets/Screenshot%202025-05-20%20at%2014.21.03.png)
+![Result](./src/assets/Screenshot%202025-05-22%20at%2017.45.49.png)
+![Result](./src/assets/Screenshot%202025-05-22%20at%2017.45.15.png)
+## Instructions:
+
+- To cross out press the checkbox
+
+- To delete press the icon
+
+- To edit press the pen
 
 ## How to Run this project
 
